@@ -6,5 +6,8 @@
 *.ear
 
 cs/
+ui/
 threephase.data
 twophase.data
+./*.java
+
