@@ -32,8 +32,8 @@ Solve a specific cube from the command line
  - At its first executing, about 20M's tables will be generated and written to disk (md5(threephase.data) = 0ee2f10d29af8ada724a1426275512c5). 
 
 # Algorithm
- - [Tsai's 8-step 4x4x4 algorithm](http://cubezzz.dyndns.org/drupal/?q=node/view/73#comment-2588)
- - The solver merges Tsai's step3 and step4 into one step and use [min2phase package](https://github.com/ChenShuang/min2phase) to replace Tsai's step5-8
+ - [Tsai's 8-step 4x4x4 algorithm](http://cubezzz.duckdns.org/drupal/?q=node/view/73#comment-2588)
+ - The solver merges Tsai's step3 and step4 into one step and use [min2phase package](https://github.com/shortydoggg/min2phase) to replace Tsai's step5-8
 
 # TODO
  - Speeding up initialization.
